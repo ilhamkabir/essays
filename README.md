@@ -10,8 +10,6 @@ I welcome the critcism. I'm sure all my ideas stained with some emotional biases
 
 If you'd like to talk about any of these topics, or any other topics, please reach out! 
 
-<br />
-
 # Essays
 
 ## Economics
@@ -22,8 +20,8 @@ If you'd like to talk about any of these topics, or any other topics, please rea
 
 ## Science and Technology
 
-- <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/ai-should-make-all-our-decisions.pdf">
-    AI Should Make All Our Decisions
+- <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
+    A Case for AI to Make All of Our Decisions
 </a>
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/billionaire-space-race.pdf">
