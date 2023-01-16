@@ -2,11 +2,9 @@
 
 Just using this as a tool to organize and clarify some ideas.
 
-If any of my essays have come off offensive, I'll apologize in advance. My intention isn't to be offensive at all, I'm just trying to find out more about how things actually work. 
+My only intention for this project is to try and find out more about how things work. 
 
-The intent behind writing down these ideas was to organize/clarify some of my thoughts and possibly get some feedback—-and more importantly, criticism—-on the current state of my ideas. 
-
-I welcome the critcism. I'm sure all my ideas stained with some emotional biases and assumptions that are just wrong. I'm not sure there's a better way to spot those flaws than by welcoming the criticism. 
+In that context, if I can get some feedback—-and more importantly, criticism—-on the current state of my ideas, that would be great. I'm sure my ideas are all stained with some amount of emotional biases and/or assumptions that are just wrong. I think putting ideas out there is the best way to spot those flaws and course correct. 
 
 If you'd like to talk about any of these topics, or any other topics, please reach out! 
 
