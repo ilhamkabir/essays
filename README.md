@@ -2,9 +2,9 @@
 
 Just using this as a tool to organize and clarify some ideas.
 
-My only intention for this project is to try and find out more about how things work. 
+The goal of this project is to try and find out more about how things work. 
 
-In that context, if I can get some feedback—-and more importantly, criticism—-on the current state of my ideas, that would be great. I'm sure my ideas are all stained with some amount of emotional biases and/or assumptions that are just wrong. I think putting ideas out there is the best way to spot those flaws and course correct. 
+In the context of that goal, if I can get some feedback—-especially critics—-on the current state of my ideas, that would be great. I'm sure my ideas are all stained with some amount of emotional biases and/or assumptions that are just wrong. I think putting ideas out there is the best way to spot those flaws and course correct. 
 
 If you'd like to talk about any of these topics, or any other topics, please reach out! 
 
