@@ -24,23 +24,23 @@ If you'd like to talk about any of these topics, or any other topics, please rea
     A Case for AI to Make All of Our Decisions
 </a>
     For a decision to be objective, the process that led to the decision needs to be (1) explicit and (2) consistent. 
-<br />
+<br /><br />
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/billionaire-space-race.pdf">
     Billionaire Space Race
 </a>
     “Only a lukewarm 53 percent of the public believed such a momentous historical occasion had been worth the cost.”
     — Jeremy Hsu
-<br />
+<br /><br />
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/science-v-pseudo-science.pdf">
     Science vs Pseudo-Science
 </a>
     "Pseudo-science": coined by the 20th century philosopher, Karl Popper.
-<br />
+<br /><br />
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/what-is-software-engineering.pdf">
     What is Software Engineering?
 </a>
     Software engineering is sequencing instructions to perform and automate computer operations. 
-<br />
+<br /><br />
