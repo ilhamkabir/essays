@@ -35,7 +35,7 @@ If you'd like to talk about any of these topics, or any other topics, please rea
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/science-v-pseudo-science.pdf">
     Science vs Pseudo-Science
 </a>
-    The term pseudo-science was coined by a 20th century philosopher, Karl Popper. 
+    The term "pseudo-science" was coined by a 20th century philosopher, Karl Popper. 
 <br /><br />
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/what-is-software-engineering.pdf">
