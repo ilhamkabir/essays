@@ -30,7 +30,7 @@ If you'd like to talk about any of these topics, or any other topics, please rea
     Billionaire Space Race
 </a>
     On the Apollo program: “Only a lukewarm 53 percent of the public believed such a momentous historical occasion had been worth the cost.”
-    — Jeremy Hsu
+        — Jeremy Hsu
 <br /><br />
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/science-v-pseudo-science.pdf">
