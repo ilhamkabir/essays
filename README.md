@@ -31,7 +31,7 @@ If you'd like to talk about any of these topics, or any other topics, please rea
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
     A Case for AI to Make All of Our Decisions
 </a>
-    Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start spending some time discussing the fundamental principles of how things work—which are easier to separate our emotions from. 
+    Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start having some conversations about the fundamental principles at play—which are easier to separate our emotions from. 
 <br /><br />
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/billionaire-space-race.pdf">
