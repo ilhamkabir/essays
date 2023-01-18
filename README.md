@@ -31,7 +31,7 @@ If you'd like to talk about any of these topics, or any other topics, please rea
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
     A Case for All of Our Decisions to be Made by AI
 </a>
-    For an objective decision, the processes that led to the decision needs to be (1) explicit and (2) consistent with other decisions.
+    For an objective decision, the processes that led to the decision needs to be (1) explicit and (2) consistent.
 <br /><br />
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/billionaire-space-race.pdf">
