@@ -10,20 +10,20 @@ If you'd like to talk about any of these topics, or any other topics, please rea
 
 # Essays
 
-## Finance
-
-- <a href="https://github.com/ilhamkabir/essays/blob/main/Finance/timeline-mortgages-from-1190-to-today.pdf">
-    Timeline: Mortgages from 1190 to Today
-</a>
-    The term “mortgage” is derived from a Law French term used in Britain in the Middle Ages meaning “death pledge”.
-<br />
-
 ## Economics
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Economics/minimum-wage.pdf">
     Minimum Wage
 </a>
     People who support increasing the minimum wage say it‘ll lift low-wage workers out of poverty and ultimately stimulate the economy. People who oppose it say it’ll price low-wage workers out of the workforce and increase prices—making it even harder for people without jobs to support themselves.
+<br />
+
+## Finance
+
+- <a href="https://github.com/ilhamkabir/essays/blob/main/Finance/timeline-mortgages-from-1190-to-today.pdf">
+    Timeline: Mortgages from 1190 to Today
+</a>
+    The term “mortgage” is derived from a Law French term used in Britain in the Middle Ages meaning “death pledge”.
 <br />
 
 ## Science and Technology
