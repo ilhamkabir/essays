@@ -60,7 +60,7 @@ If you'd like to talk about any of these topics, or any other topics, please rea
         Programming is a discipline founded by a woman; how many other disciplines can you say that about?
     <br /><br />
 
-    - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/women-in-software-engineering.pdf">
+    - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-technical-guide-to-the-btc-transaction-process.pdf">
         A Technical Guide to the BTC Transaction Process
     </a>
         * This paper is meant for Software Engineers.
