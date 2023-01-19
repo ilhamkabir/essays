@@ -67,7 +67,7 @@ If you'd like to talk about any of these topics, or any other topics, please rea
     <br /><br />
 
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/critical-section-problem.pdf">
-        We’ve Solve the Critical Section Problem
+        We’ve Solved the Critical Section Problem
     </a>
         * This paper is meant for Software Engineers.
     <br /><br />
