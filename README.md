@@ -1,12 +1,10 @@
 # Preface
 
-Just using this as a tool to organize and clarify some ideas.
+This started off as just a tool to organize and clarify some ideas. But a few papers in, I started to realize I'm learning more about how things work! That learning has been unbelievably fun.
 
-The goal of this project is to try and find out more about how things work. 
+I'm sure their are flaws in the current state of most of my ideas. So if you have any feedback (especially critiques) to help me learn those mistakes, I'd appreciate appreciate any time you have to talk about these topics, or any other topics. 
 
-In that context, if you have some feedback to offer (especially critiques) on the current state of my ideas, that would be great. I'm sure my ideas are all stained with some amount of emotional biases and/or assumptions that are just wrong. I think putting ideas out there in writing is the best way to spot those flaws and course correct. 
-
-If you'd like to talk about any of these topics, or any other topics, please reach out! 
+I've tried to keep my essays pretty laymen-frinedly because I'd love for others to get as excited about these topics! There are a few I felt I couldn't do that and those papers have the target audience explicity written below them.
 
 # Essays
 
@@ -34,10 +32,10 @@ If you'd like to talk about any of these topics, or any other topics, please rea
 
 ## Science and Technology
 
-- <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
-    A Case for AI to Make All of Our Decisions
+- <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/science-v-pseudo-science.pdf">
+    Science vs Pseudo-Science
 </a>
-    Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start having some conversations about the fundamental principles at play — which is easier to separate our emotions from. 
+    The term "pseudo-science" was coined by a 20th century Austrian philosopher, Karl Popper. 
 <br /><br />
 
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/billionaire-space-race.pdf">
@@ -46,10 +44,12 @@ If you'd like to talk about any of these topics, or any other topics, please rea
     Even when support was at its peak, when Armstrong and Aldrin took their first steps on the moon, “only a lukewarm 53 percent of the public believed such a momentous historical occasion had been worth the cost.”
 <br /><br />
 
-- <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/science-v-pseudo-science.pdf">
-    Science vs Pseudo-Science
+- Artifical Intelligence
+
+- <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
+    A Case for AI to Make All of Our Decisions
 </a>
-    The term "pseudo-science" was coined by a 20th century Austrian philosopher, Karl Popper. 
+    Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start having some conversations about the fundamental principles at play — which is easier to separate our emotions from. 
 <br /><br />
 
 - Software Engineering
