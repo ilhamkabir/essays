@@ -48,39 +48,35 @@ You can email me at: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHu
 
 - Artifical Intelligence
 
-- <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
-    A Case for AI to Make All of Our Decisions
-</a>
-    Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start having some conversations about the fundamental principles at play — which is easier to separate our emotions from. 
-<br /><br />
+    - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
+        A Case for AI to Make All of Our Decisions
+    </a>
+        Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start having some conversations about the fundamental principles at play — which is easier to separate our emotions from. 
+    <br /><br />
 
 - Software Engineering
 
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/what-is-software-engineering.pdf">
         What is Software Engineering?
     </a>
-    <br />
         Software engineering is sequencing instructions to perform and automate computer operations. 
     <br /><br />
 
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/women-in-software-engineering.pdf">
         Women in Software Engineering
     </a>
-    <br />
         Programming is a discipline founded by a woman; how many other disciplines can you say that about?
     <br /><br />
 
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-technical-guide-to-the-btc-transaction-process.pdf">
         A Technical Guide to the BTC Transaction Process
     </a>
-    <br />
         [This paper is meant for Software Engineers.]
     <br /><br />
 
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/critical-section-problem.pdf">
         We’ve Solved the Critical Section Problem
     </a>
-    <br />
         [This paper is meant for Software Engineers.]
     <br /><br />
 
