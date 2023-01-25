@@ -1,10 +1,12 @@
 # Preface
 
-This started off as just a tool to organize and clarify some of my thoughts. But a few papers in, I realized I'm starting to learn more about how things work! That learning can be so much fun.
-
-I'm sure there are flaws in the current state of most of my ideas. So if you have any feedback (especially critiques) to help me learn those mistakes, I'd appreciate appreciate any time you might have to talk about these topics; or any other topics. 
+This started off as just a tool to organize and clarify some of my thoughts. But a few papers in, I started to realize I'm learning more about how things work! That learning can be a lot of fun.
 
 I've tried to keep my essays pretty laymen-frinedly because I'd love for others to get as excited about these topics! There are a few I felt I couldn't do that and those papers have the target audience explicity written below them.
+
+I'm sure there are flaws in the current state of most of my ideas. So if you have any feedback (especially critiques) to help me learn those mistakes, I'd appreciate  any time you might have to talk about these topics; or any other topics. 
+
+You can email me at: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 
 # Essays
 
