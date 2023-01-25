@@ -1,8 +1,8 @@
 ## Preface
 
-This started off as just a tool to organize and clarify some of my thoughts. But a few papers in, I started realizing I'm learning more about how things work! That learning can be a lot of fun.
+This started off as just a tool to organize and clarify some of my thoughts. But a few papers in, I started realizing I'm learning more about how things work!
 
-I've tried to keep my essays pretty laymen-frinedly because I'd love for others to get as excited about these topics! There are a few I felt I couldn't do that in and those papers have the target audience explicity written below them.
+I've tried to keep my essays pretty laymen-friendly because I'd love for others to get as excited about these topics! There are a few I felt I couldn't do that in and those papers have the target audience explicity written below them.
 
 I'm sure there are flaws in the current state of most of my ideas. So if you have any feedback (especially critiques) to help me learn those mistakes, I'd appreciate  any time you might have to talk about these topics; or any other topics!
 
