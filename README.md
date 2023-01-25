@@ -12,6 +12,12 @@ If you'd like to talk about any of these topics, or any other topics, please rea
 
 ## Economics
 
+- <a href="https://github.com/ilhamkabir/essays/blob/main/Economics/timeline-labor-unions-from-1768-to-today.pdf">
+    Timeline: Labor Unions from 1768 to Today
+</a>
+    Although the AFL remained true to its inclusive principles for a few years, skilled white male workers eventually realized the ingress of African American, women, immigrant, and unskilled workers meant less demand for their own labor.  
+<br />
+
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Economics/minimum-wage.pdf">
     Minimum Wage
 </a>
