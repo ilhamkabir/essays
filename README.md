@@ -1,4 +1,4 @@
-# Preface
+## Preface
 
 This started off as just a tool to organize and clarify some of my thoughts. But a few papers in, I started to realize I'm learning more about how things work! That learning can be a lot of fun.
 
@@ -51,7 +51,7 @@ You can email me at: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHu
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
         A Case for AI to Make All of Our Decisions
     </a>
-        Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start having some conversations about the fundamental principles at play — which is easier to separate our emotions from. 
+        Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start having some conversations about the fundamental principles at play — which are easier to separate our emotions from. 
     <br /><br />
 
 - Software Engineering
