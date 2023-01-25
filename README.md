@@ -57,24 +57,28 @@ If you'd like to talk about any of these topics, or any other topics, please rea
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/what-is-software-engineering.pdf">
         What is Software Engineering?
     </a>
+    <br />
         Software engineering is sequencing instructions to perform and automate computer operations. 
     <br /><br />
 
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/women-in-software-engineering.pdf">
         Women in Software Engineering
     </a>
+    <br />
         Programming is a discipline founded by a woman; how many other disciplines can you say that about?
     <br /><br />
 
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-technical-guide-to-the-btc-transaction-process.pdf">
         A Technical Guide to the BTC Transaction Process
     </a>
+    <br />
         [This paper is meant for Software Engineers.]
     <br /><br />
 
     - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/critical-section-problem.pdf">
         We’ve Solved the Critical Section Problem
     </a>
+    <br />
         [This paper is meant for Software Engineers.]
     <br /><br />
 
