@@ -1,10 +1,10 @@
 ## Preface
 
-This started off as just a tool to organize and clarify some of my thoughts. But a few papers in, I started to realize I'm learning more about how things work! That learning can be a lot of fun.
+This started off as just a tool to organize and clarify some of my thoughts. But a few papers in, I started realizing I'm learning more about how things work! That learning can be a lot of fun.
 
-I've tried to keep my essays pretty laymen-frinedly because I'd love for others to get as excited about these topics! There are a few I felt I couldn't do that and those papers have the target audience explicity written below them.
+I've tried to keep my essays pretty laymen-frinedly because I'd love for others to get as excited about these topics! There are a few I felt I couldn't do that in and those papers have the target audience explicity written below them.
 
-I'm sure there are flaws in the current state of most of my ideas. So if you have any feedback (especially critiques) to help me learn those mistakes, I'd appreciate  any time you might have to talk about these topics; or any other topics. 
+I'm sure there are flaws in the current state of most of my ideas. So if you have any feedback (especially critiques) to help me learn those mistakes, I'd appreciate  any time you might have to talk about these topics; or any other topics!
 
 You can email me at: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 
@@ -48,8 +48,8 @@ You can email me at: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHu
 
 - Artifical Intelligence
 
-    - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/a-case-for-ai-to-make-all-of-our-decisions.pdf">
-        A Case for AI to Make All of Our Decisions
+    - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/ai-can-help-us-make-better-decisions.pdf">
+        AI Can Help Us Make Better Decisions
     </a>
         Because an AI is just a bunch of “algorithms” (or “models”) layered on top of one another and those algorithm work on explicitly defined rules and principles, we’ll finally need to start having some conversations about the fundamental principles at play — which are easier to separate our emotions from. 
     <br /><br />
