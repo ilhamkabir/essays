@@ -12,16 +12,16 @@ You can email me at: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHu
 
 ## Economics
 
-- <a href="https://github.com/ilhamkabir/essays/blob/main/Economics/timeline-labor-unions-from-1768-to-today.pdf">
-    Timeline: Labor Unions from 1768 to Today
-</a>
-    Although the AFL remained true to its inclusive principles for a few years, skilled white male workers eventually realized the ingress of African American, women, immigrant, and unskilled workers meant less demand for their own labor.  
-<br /><br />
-
 - <a href="https://github.com/ilhamkabir/essays/blob/main/Economics/minimum-wage.pdf">
     Minimum Wage
 </a>
     People who support increasing the minimum wage say it‘ll lift low-wage workers out of poverty and ultimately stimulate the economy. People who oppose it say it’ll price low-wage workers out of the workforce and increase prices—making it even harder for people without jobs to support themselves.
+<br /><br />
+
+- <a href="https://github.com/ilhamkabir/essays/blob/main/Economics/timeline-labor-unions-from-1768-to-today.pdf">
+    Timeline: Labor Unions from 1768 to Today
+</a>
+    Although the AFL remained true to its inclusive principles for a few years, skilled white male workers eventually realized the ingress of African American, women, immigrant, and unskilled workers meant less demand for their own labor.  
 <br />
 
 ## Finance
