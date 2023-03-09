@@ -73,10 +73,3 @@ You can email me at: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHu
     </a>
         [This paper is meant for Software Engineers.]
     <br /><br />
-
-    - <a href="https://github.com/ilhamkabir/essays/blob/main/Science%20and%20Technology/critical-section-problem.pdf">
-        We’ve Solved the Critical Section Problem
-    </a>
-        [This paper is meant for Software Engineers.]
-    <br /><br />
-
